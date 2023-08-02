@@ -95,7 +95,7 @@ You can synthesize the toy dataset we used in the paper by "toy_dataset/toy_data
 If you run below code snippet, 10000 toy videos are saved in "toy_dataset/sampled_videos/
 ```
 cd toy_dataset
-python3 toy_dataset
+python3 toy_dataset.py
 ```
 
 

@@ -12,6 +12,9 @@
 <img src="https://github.com/hse1032/Frequency-based-Motion-Representation-for-Video-GANs/assets/115209649/c7b58b96-0638-431c-a29f-470b2fc8df60" alt="toy high frequency range" style="width:240px; height:240px;"\>
 </div>
 
+
+
+
 ### Abstract
 Videos contain motions of various speeds. For example, the motions of one’s head and mouth differ in terms of speed — the head being relatively stable and the mouth moving rapidly as one speaks. Despite its diverse nature, previous video GANs generate video based on a single unified motion representation without considering the aspect of speed. In this paper, we propose a frequency-based motion representation for video GANs to realize the concept of speed in video generation process. In detail, we represent motions as continuous sinusoidal signals of various frequencies by introducing a coordinate-based motion generator. We show, in that case, frequency is highly related to the speed of motion. Based on this observation, we present frequency-aware weight modulation that enables manipulation of motions within a specific range of speed, which could not be achieved with the previous techniques. Extensive experiments validate that the proposed method outperforms state-of-the-art video GANs in terms of generation quality by its capability to model various speed of motions. Furthermore, we also show that our temporally continuous representation enables to further synthesize intermediate and future frames of generated
 videos.

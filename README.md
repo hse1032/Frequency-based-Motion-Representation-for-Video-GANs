@@ -1,4 +1,4 @@
-# Frequency-based-Motion-Representation-for-Video-GANs
+# Frequency-Based Motion Representation for Video Generative Adversarial Networks
 
 ### [IEEE Transaction on Image Processing (TIP)] Pytorch implementation
 [[Paper](https://ieeexplore.ieee.org/document/10183834)] [[Project page](https://hse1032.github.io/Frequency-based-Motion-Representation-for-Video-GANs-project-page/)]

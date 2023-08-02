@@ -7,9 +7,9 @@
 <!-- ![toy_original](https://github.com/hse1032/Frequency-based-Motion-Representation-for-Video-GANs/assets/115209649/3969a94f-7685-4691-a459-87dfad6f0b5b)
 ![toy_low](https://github.com/hse1032/Frequency-based-Motion-Representation-for-Video-GANs/assets/115209649/ee959277-fb2e-4e7a-9cd6-babc28557244)
 ![toy_high](https://github.com/hse1032/Frequency-based-Motion-Representation-for-Video-GANs/assets/115209649/c7b58b96-0638-431c-a29f-470b2fc8df60) -->
-<img src="https://github.com/hse1032/Frequency-based-Motion-Representation-for-Video-GANs/assets/115209649/3969a94f-7685-4691-a459-87dfad6f0b5b" alt="toy full frequency range"\>
-<img src="https://github.com/hse1032/Frequency-based-Motion-Representation-for-Video-GANs/assets/115209649/ee959277-fb2e-4e7a-9cd6-babc28557244" alt="toy low frequency range"\>
-<img src="https://github.com/hse1032/Frequency-based-Motion-Representation-for-Video-GANs/assets/115209649/c7b58b96-0638-431c-a29f-470b2fc8df60" alt="toy high frequency range"\>
+<img src="https://github.com/hse1032/Frequency-based-Motion-Representation-for-Video-GANs/assets/115209649/3969a94f-7685-4691-a459-87dfad6f0b5b" alt="toy full frequency range" style="width:240px; height:240px;"\>
+<img src="https://github.com/hse1032/Frequency-based-Motion-Representation-for-Video-GANs/assets/115209649/ee959277-fb2e-4e7a-9cd6-babc28557244" alt="toy low frequency range" style="width:240px; height:240px;"\>
+<img src="https://github.com/hse1032/Frequency-based-Motion-Representation-for-Video-GANs/assets/115209649/c7b58b96-0638-431c-a29f-470b2fc8df60" alt="toy high frequency range" style="width:240px; height:240px;"\>
 </div>
 
 ### Abstract

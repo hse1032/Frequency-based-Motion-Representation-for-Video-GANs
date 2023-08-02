@@ -98,6 +98,10 @@ cd toy_dataset
 python3 toy_dataset.py
 ```
 
+## Pretrained weights
+We provide pretrained weights for UCF-101 and SkyTimelapse dataset following the settings from StyleGAN-V.
+
+[Pretrained weight link (google drive)](https://drive.google.com/drive/folders/158frHFH7kEcA-b66-_dUWMYSDwxhg55K?usp=drive_link)
 
 ## Acknowledgement
 Our code is built upon several open-sourced GANs as below

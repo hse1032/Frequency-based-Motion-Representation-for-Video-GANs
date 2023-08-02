@@ -111,6 +111,7 @@ Our code is built upon several open-sourced GANs as below
 - StyleGAN2-pytorch (https://github.com/rosinality/stylegan2-pytorch)
 - StyleGAN2 (https://github.com/NVlabs/stylegan2)
 - StyleGAN-V (https://github.com/universome/stylegan-v)
+- DiffAugment (https://github.com/mit-han-lab/data-efficient-gans)
 
 Thanks for them!
 
